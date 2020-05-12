@@ -1,1 +1,1 @@
-# DTW based Text-Dependent Speaker Verification on ESP-EYE
+# ESP-EYE Speaker verification
